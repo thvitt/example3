@@ -1,2 +1,0 @@
-Das ist ein Testindex
-// hier wurde der Bug gefixed
